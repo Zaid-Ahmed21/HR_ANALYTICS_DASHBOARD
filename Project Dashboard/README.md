@@ -122,12 +122,3 @@ This project demonstrates how HR data can be organized and explored through inte
 - Interactive dashboard design
 - Business intelligence and data storytelling
 
-## Author
-
-**Zaid Ahmed Ansari**
-
-Aspiring Data Analyst | Data Scientist | AI/ML Engineer
-
----
-
-If you find this project useful, feel free to ⭐ the repository!
